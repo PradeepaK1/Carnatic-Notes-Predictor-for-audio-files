@@ -1,7 +1,6 @@
 import wave
 import IPython.display as ipd
-import sounddevice as sd
-import soundfile as sf
+
 import streamlit as st
 import IPython.display as ipd
 import librosa
