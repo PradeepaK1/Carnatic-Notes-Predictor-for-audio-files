@@ -175,7 +175,7 @@ def print_prediction(file_name):
     prediction = model.predict(prediction_feature)
     predicted_class = le.inverse_transform(np.argmax(prediction, axis=1))
     st.write("Key: ", predicted_class[0],end='') 
-    f = open('music-carnatic/notes1/log.txt', 'a')
+    f = open('notes1/log.txt', 'a')
     print(predicted_class[0], file = f,end=' ')
     
   
