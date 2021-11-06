@@ -188,9 +188,9 @@ import os
 import librosa
 
 # Set the path to the full UrbanSound dataset 
-fulldatasetpath = 'C:/Users/ptljk/music-carnatic/notes1/'
+fulldatasetpath = 'music-carnatic/notes1/'
 
-metadata = pd.read_csv('C:/Users/ptljk/music-carnatic/notes1/metadata.csv')
+metadata = pd.read_csv('music-carnatic/notes1/metadata.csv')
 
 features = []
 
