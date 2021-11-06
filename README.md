@@ -2,7 +2,7 @@ Carnatic Notes Predictor for audio files
 
 Link for live application:
 
-https://share.streamlit.io/pradeepak1/carnatic-music-final/main/main.py
+https://share.streamlit.io/pradeepak1/carnatic-notes-predictor-for-audio-files/main/main.py
 
 Description:
 
