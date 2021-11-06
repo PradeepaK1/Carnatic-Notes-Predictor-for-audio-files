@@ -6,7 +6,7 @@ import IPython.display as ipd
 import librosa
 import librosa.display
 import matplotlib.pyplot as plt
-filename = 'music-carnatic/notes1/fold1/S\'\'.wav'
+filename = 'notes1/fold1/S\'\'.wav'
 data,sample_rate = librosa.load(filename)
 _ = librosa.display.waveplot(data,sr=sample_rate)
 ipd.Audio(filename)
