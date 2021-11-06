@@ -6,132 +6,9 @@ import IPython.display as ipd
 import librosa
 import librosa.display
 import matplotlib.pyplot as plt
-filename = 'notes1/fold1/S\'\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold1/S\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold2/R.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold2/R\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold2/R1.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold2/R1\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold3/G.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold3/G\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold3/G1.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold3/G1\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold4/M1,.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold4/M1.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold4/M1\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold4/M2,.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold4/M2.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold4/M2\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold5/P,.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold5/P.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold5/P\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold6/D,.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold6/D.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold6/D\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold6/D1,.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold6/D1.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold6/D1\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold7/N,.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold7/N.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold7/N\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold7/N1,.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold7/N1.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
-filename = 'music-carnatic/notes1/fold7/N1\'.wav'
-data,sample_rate = librosa.load(filename)
-_ = librosa.display.waveplot(data,sr=sample_rate)
-ipd.Audio(filename)
+
 import pandas as pd
-metadata = pd.read_csv('music-carnatic/notes1/metadata.csv')
+metadata = pd.read_csv('notes1/metadata.csv')
 import struct
 
 class WavFileHelper():
@@ -157,7 +34,7 @@ import librosa
 from scipy.io import wavfile as wav
 import numpy as np
 
-filename = 'music-carnatic/notes1/fold7/N1.wav' 
+filename = 'notes1/fold7/N1.wav' 
 
 librosa_audio, librosa_sample_rate = librosa.load(filename) 
 scipy_sample_rate, scipy_audio = wav.read(filename) 
@@ -187,9 +64,9 @@ import os
 import librosa
 
 # Set the path to the full UrbanSound dataset 
-fulldatasetpath = 'music-carnatic/notes1/'
+fulldatasetpath = 'notes1/'
 
-metadata = pd.read_csv('music-carnatic/notes1/metadata.csv')
+metadata = pd.read_csv('notes1/metadata.csv')
 
 features = []
 
@@ -276,7 +153,7 @@ from datetime import datetime
 num_epochs = 100
 num_batch_size = 256
 
-checkpointer = ModelCheckpoint(filepath='music-carnatic/notes1/saved_models/weights.best.basic_cnn.hdf5', 
+checkpointer = ModelCheckpoint(filepath='notes1/saved_models/weights.best.basic_cnn.hdf5', 
                                verbose=0, save_best_only=True)
 start = datetime.now()
 
@@ -364,13 +241,13 @@ if audio is not None:
         chunk = audio[start:end] 
 
         # Filename / Path to store the sliced audio 
-        filename = 'music-carnatic/notes1/test2/chunk'+str(counter)+'.wav'
+        filename = 'notes1/test2/chunk'+str(counter)+'.wav'
         chunk.export(filename, format ="wav") 
         # Print information about the current chunk 
 
         # Increment counter for the next chunk 
         counter = counter + 1
-    for name in glob('music-carnatic/notes1/test2/*.wav'):
+    for name in glob('notes1/test2/*.wav'):
         filename = name
         print_prediction(filename)
 from IPython.display import Audio
@@ -461,13 +338,13 @@ def record_and_predict(duration):
             chunk = audio[start:end] 
 
             # Filename / Path to store the sliced audio 
-            filename = 'music-carnatic/notes1/test2/chunk'+str(counter)+'.wav'
+            filename = 'notes1/test2/chunk'+str(counter)+'.wav'
             chunk.export(filename, format ="wav") 
             # Print information about the current chunk 
 
             # Increment counter for the next chunk 
             counter = counter + 1
-        for name in glob('music-carnatic/notes1/test2/*.wav'):
+        for name in glob('notes1/test2/*.wav'):
             filename = name
             print_prediction(filename)
 
