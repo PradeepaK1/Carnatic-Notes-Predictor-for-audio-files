@@ -1,4 +1,7 @@
-# DIVA_CODERS
+
+Link for live application:
+
+https://share.streamlit.io/pradeepak1/carnatic-music-final/main/main.py
 
 Description:
 
@@ -8,7 +11,7 @@ Description:
 - The base code for execution can be executed in anaconda navigator (Jupyter Lab Terminal) after synchronizing with the dataset 
 - Install the requirements and in the terminal type the command:
 
-streamlit run project.py
+streamlit run main.py
 
 Attached Files: 
 
@@ -38,25 +41,4 @@ Tech Stack
 - Neural Networks
 
 Installation 
-
-numpy==1.17.0
-
-pandas==0.25.3
-
-streamlit==0.62.1
-
-scipy==1.4.1
-
-tensorflow==2.3.1
-
-pydub==0.24.1
-
-librosa==0.7.2
-
-Keras==2.4.3
-
-ipython==7.16.1
-
-scikit_learn==0.23.1
-
-
+Refer - requirements.txt
